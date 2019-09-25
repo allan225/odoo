@@ -3,7 +3,7 @@
 
 {
     'name': 'Warehouse report',
-    'author': 'Alla Parfait',
+    'author': 'Parfait AllA',
     'version': '8.0',
     'sequence': 3,
     'category': 'Warehouse',
